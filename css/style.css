@@ -1,0 +1,129 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+p{
+  line-height: 2;
+  padding-bottom: 20px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 5.65rem;
+  margin-bottom: 0;
+  color: #09c5c5;
+ 
+}
+
+h2, h3{
+  font-family: 'Montserrat', sans-serif;
+
+}
+h2{
+  padding-top: 10px;
+  color: #09c5c5;
+  font-weight: normal;
+  font-size: 2rem;
+}
+
+h3, a{
+  color:#11999E;
+}
+
+.top-container{
+  background-color: #C2F0FC;
+  padding-top: 100px;
+  position: relative;
+  
+}
+
+.top-cloud{
+  position: absolute;
+  right: 350px;
+  top: 50px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  top: 500px;
+
+
+}
+
+.middle-container{
+  background-color: #ecf5f5;
+  padding: 100px 0;
+}
+
+.profile img{
+  height: 200px;
+
+}
+.profile p{
+  width: 30%;
+  margin: auto;
+}
+.coding-website{
+  width: 25%;
+  float: left;
+  margin-right: 50px;
+}
+.coding-game{
+  width: 20%;
+  float: right;
+  margin-left: 50px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: justify;
+  
+
+}
+hr{
+  border-top: dotted 10px;
+  width: 5%;
+  color: rgb(214, 210, 210);
+}
+.btn{
+  text-decoration: none;
+  background-color: rgb(76, 177, 235);
+  color: white;
+  border-radius: 10px;
+  padding: 10px;
+}
+.btn:hover{
+  background-color:  rgb(3, 69, 107);
+  color: black
+}
+
+footer{
+  background-color: #66BFBF;
+  padding:20px
+}
+.copy-right{
+  padding-top: 20px;
+  font-size: .89rem;
+  color: rgb(243, 241, 241);
+}
+.footer-link{
+  margin: 0 30px;
+  text-decoration: none;
+  color: rgb(243, 241, 241);
+}
+
+.footer-link:hover{
+  font-size: 1.5rem;
+  color:#4267B2;
+  
+}
+.iloveyou{
+  text-align: center;
+  
+}
